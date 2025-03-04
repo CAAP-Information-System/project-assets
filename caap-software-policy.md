@@ -3,7 +3,7 @@
 ## Effectivity Date: January 01, 2025
 
 ## Overview
-The Civil Aviation Authority of the Philippines ("we," "our," "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and secure your personal information when you visit our website, [ais.caap.gov.ph](https://ais.caap.gov.ph), or use our services. By accessing or using our services, you agree to the terms outlined in this policy. If you do not agree with these terms, please refrain from using the services.
+The Civil Aviation Authority of the Philippines ("we," "our," "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and secure your personal information when you visit our website, or use our services. By accessing or using our services, you agree to the terms outlined in this policy. If you do not agree with these terms, please refrain from using the services.
 
 ## Information Collected
 
